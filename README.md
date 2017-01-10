@@ -1,2 +1,2 @@
-# 1825_poster
-A Minetest mod adding posters
+# risitas_poster
+A Minetest mod adding a poster of Risitas
